@@ -1,0 +1,81 @@
+/* Configurações gerais */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background-color: #f9f9f9;
+  color: #333;
+}
+
+/* Cabeçalho principal */
+h1 {
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+  padding: 20px 0;
+  margin: 0;
+  font-size: 2.5em;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Parágrafos */
+p {
+  margin: 20px 40px;
+  font-size: 1.1em;
+  text-align: center;
+}
+
+/* Imagens */
+img {
+  display: block;
+  margin: 20px auto;
+  max-width: 80%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Negrito */
+strong {
+  display: block;
+  text-align: center;
+  margin: 20px 40px;
+  font-size: 1.2em;
+  color: #4CAF50;
+}
+
+/* Espaçamento entre seções */
+br {
+  line-height: 2;
+}
+
+/* Links no texto (caso existam no futuro) */
+a {
+  color: #367238;
+  text-decoration-line: underline;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+/* Caixa de imagens e textos */
+.container {
+  background: white;
+  margin: 20px auto;
+  padding: 20px;
+  border-radius: 8px;
+  max-width: 800px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Ajuste para títulos das seções */
+h2 {
+  text-align: center;
+  font-size: 1.8em;
+  margin-top: 30px;
+  color: #4CAF50;
+  text-transform: uppercase;
+}
+
