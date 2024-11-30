@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  Fiz um sitema de comandas para o Vista Restaurante. Para garçom e cozinheiro.
+  Sistema de Comandas para Restaurantes: Otimizando a Comunicação entre Garçons e Cozinheiros com Java e MySQL
 </h4>
 
 <p align="center">
@@ -16,13 +16,16 @@
 
 <br>
 
-<img style="display: block; margin: auto;" src=".github/preview.png" alt="print">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <img src=".github/preview.png" alt="print">  
+</div>
+
 
 <br><br>
 
 <h2 id="Description">:memo: Descrição do Projeto</h2>
 
-Desenvolvi um sistema de comandas em Java e MySQL para o Vista Restaurant, projetada para atender às necessidades exclusivas de garçons e chefs. O sistema permite que a equipe atenda os pedidos com rapidez e eficiência, enquanto os chefs têm acesso direto às informações sobre os pratos a serem preparados. Foi criado com foco na melhoria do desempenho operacional e do restaurante, na comunicação da equipe e na melhoria do atendimento. Funções de integração de sistemas, como registro de pedidos, gerenciamento de espaço e planejamento de pedidos, levam a um melhor gerenciamento.
+Desenvolvi um sistema de comandas em Java e MySQL para o Vista Restaurant, projetada para atender às necessidades exclusivas de garçons e chefs. O sistema permite que a equipe atenda os pedidos com rapidez e eficiência, enquanto os chefs têm acesso direto às informações sobre os pratos a serem preparados. Foi criado com foco na melhoria do desempenho operacional e do restaurante, na comunicação da equipe e na melhoria do atendimento. Funções de integração de sistemas, como registro de pedidos, gerenciamento de espaço e planejamento de pedidos, levam a um melhor gerenciamento. Esse projeto apresenta comandas em PDF e um arquivo de ajuda, caso precise.
 
 <h2 id="Build with">:pencil2: Feito com</h2>
 
