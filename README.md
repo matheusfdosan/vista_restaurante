@@ -45,6 +45,17 @@ Para rodar o projeto precisamos:
 - Iniciar um banco de dados através dos comandos do [database.sql](src/database/database.sql)
 - Rodar o arquivo main (F6).
 
+<h2 id="Contact">Colaboradores</h2>
+
+<br>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://avatars.githubusercontent.com/u/104006185?v=4" style="width: 30px; border-radius: 20%"> <a href="https://github.com/matheusfdosan" target="_blank"> Matheus Faustino </a> 
+</div>
+<br>
+<div style="display: flex; align-items: center; gap: 10px;">
+  <img src="https://avatars.githubusercontent.com/u/166236768?v=4" style="width: 30px; border-radius: 20%"> <a href="https://github.com/PedroCabs" target="_blank"> Pedro Cabral </a> 
+</div>
+
 <h2 id="License">:scroll: License</h2>
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para contribuir, fazer fork e usar este projeto como base para seus próprios projetos!
